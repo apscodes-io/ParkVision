@@ -1,32 +1,31 @@
 # ParkVision
 
-A simple parking website developed using HTML and CSS.
+An AI-powered smart parking system that uses computer vision to detect and monitor parking slot availability in real time. The system helps users quickly identify vacant parking spaces, reducing search time and improving parking efficiency.
 
 ## Features
 
-- Responsive webpage
-- Clean and modern UI
-- Easy navigation
-- Simple and lightweight design
+- Real-time parking slot detection
+- AI-based parking space monitoring
+- User-friendly interface
+- Improved parking management
+- Scalable architecture
 
-## Technologies Used
+## Tech Stack
 
-- HTML5
-- CSS3
+- HTML
+- CSS
+- JavaScript
+- Python
+- OpenCV
+- YOLO
+- FastAPI
 
-## Project Structure
+## Future Improvements
 
-```
-ParkVision/
-├── index.html
-├── style.css
-└── README.md
-```
-
-## How to Run
-
-1. Download or clone the repository.
-2. Open `index.html` in your web browser.
+- Live camera integration
+- Parking reservation
+- User authentication
+- Analytics dashboard
 
 ## Author
 
